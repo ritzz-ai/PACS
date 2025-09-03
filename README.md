@@ -1,8 +1,12 @@
 # PACS: Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR
 
-<a href=''><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
+<a href='https://arxiv.org/abs/2509.02522'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
 
-<!-- ## 🤩 Release -->
+## 🤩 News
+
+- [2025/09/03] Our PACS paper ([Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)) can be accessed in arXiv!
+- [2025/09/03] We released the code and scripts.
+
 
 ![Method](images/pacs.png)
 
@@ -144,5 +148,13 @@ We present the key results from our experiments here. The complete set of result
 If you finding our work interesting or helpful to you, please cite this repo.
 
 ```plain
-
+@misc{li2025implicitactorcriticcoupling,
+      title={Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR}, 
+      author={Jiaming Li and Longze Chen and Ze Gong and Yukun Chen and Lu Wang and Wanwei He and Run Luo and Min Yang},
+      year={2025},
+      eprint={2509.02522},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.02522}, 
+}
 ```
